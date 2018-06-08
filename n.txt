@@ -18,7 +18,7 @@ int SUM(char arr[][3])
         }  
     }  
     sum -= arr[1][1];  
-     sum;  
+    return sum;  
 }  
 int main()  
 {  
